@@ -19,7 +19,7 @@ Questo repository contiene lo sviluppo del sistema gestionale dedicato alla digi
 ## 📂 Struttura del Progetto
 La repository è organizzata secondo le fasi di sviluppo previste dal corso:
 
-* **Progetto Modellazione Dati.pdf**: Documentazione tecnica sulla tipologia di dati e specifiche del dominio medico trattato.
+* **/Progetto Modellazione Dati.pdf**: Documentazione tecnica sulla tipologia di dati e specifiche del dominio medico trattato.
 * **/DB/ER_schema.pdf**: Diagrammi ed elaborati grafici **Entity-Relationship (E/R)** per la modellazione logica del database.
 * **/DB/schema_and_data.sql**: Script SQL (`.sql`) per la creazione dello schema, delle tabelle e dei vincoli d'integrità su MySQL.
 * **/GestionaleReferti/src/**: Codice sorgente dell'applicativo gestionale sviluppato in **Java**.
