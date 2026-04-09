@@ -1,5 +1,5 @@
 # Sistema di Gestione Referti Medici 🏥
-**Modellazione dati - Progetto 3a - Master di II Livello FULL STACK WEB DEVELOPMENT**
+**Modellazione dati - Progetto "Gruppo 3 – Referti Medici" - Master di II Livello FULL STACK WEB DEVELOPMENT**
 
 Questo repository contiene lo sviluppo del sistema gestionale dedicato alla digitalizzazione, archiviazione e consultazione di referti medici e documenti allegati. Il progetto copre l'intero ciclo di vita del dato: dall'analisi dei requisiti alla realizzazione dell'interfaccia software.
 
